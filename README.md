@@ -4,6 +4,10 @@ This repository contain source code of AccessHAT Software Driver.  All of the dr
 
 
 ## Prerequisite  
+### To Purchase Hardware
+
+Visit **[makersolutions.io](https://makersolutions.io)**
+
 ### For Raspbian OS
 
 1. Enable I2C and UART(Serial Port) Interface in Raspberry Pi  
