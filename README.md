@@ -83,7 +83,7 @@ Follow these steps to compile and install the accesshat c library :
 After completing these steps, we can write an application code in any directory of user choice and include the header files directly without worrying about its location like  #include <driver_file.h> (all the driver header files will be available globally).
 
 **Example**:
- The [Single tap detection](https://github.com/SecurePRO/hardware_drivers/blob/master/accesshat_drivers/inertial_module_driver/single_tap_example.c) example code can be compiled and executed as follows.
+ The [Single tap detection](https://github.com/makersolutions-io/accesshat_drivers/blob/main/inertial_module_driver/single_tap_example.c) example code can be compiled and executed as follows.
  
  **$ gcc single_tap_example.c -laccesshat -lwiringPi**  
  **$ sudo ./a.out**
